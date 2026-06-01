@@ -28,7 +28,7 @@
 
 `ping 255.255.255.255`
 
-`masscan`
+`masscan -iL ips.txt --ping`
 
 ## Recon
 
